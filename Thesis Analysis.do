@@ -1,6 +1,9 @@
-//Change working directory
-//Start a log file
-//Import data set 
+
+// Analysis for M.S. thesis utilizing Stata
+
+// Utilizing the financial capability framework to investigate the segmentation of 
+undergraduate students with student loan debt and student financial stress. Analyzing 
+each segment’s association with expected starting salary and perception of college investment.
 
  
 ********************************************************************************
